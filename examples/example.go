@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/casbin/casbin"
-	"github.com/sebastianliu/etcd-adapter"
+	etcdadapter "github.com/sebastianliu/etcd-adapter"
 )
 
 func main() {
